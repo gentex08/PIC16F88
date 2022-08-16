@@ -1,3 +1,5 @@
+; 
+; OBSOLETE - FROM ORIGINAL REPOSITORY. might be useful later.
 ;--------------------------------------------------------
 ; File Created by SDCC : free open source ANSI-C Compiler
 ; Version 3.5.0 #9253 (Dec  6 2015) (Linux)

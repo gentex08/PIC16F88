@@ -1,3 +1,5 @@
+
+// OBSOLETE - FROM ORIGINAL REPOSITORY. might be useful later.
 #include <pic14/pic16f1455.h>
 #include <pic14/pic16f1455.h>
 void  main(){

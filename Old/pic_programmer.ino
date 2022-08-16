@@ -1,3 +1,5 @@
+// OBSOLETE - FROM ORIGINAL REPOSITORY. will be used as reference during development. 
+
 #define  CLOCK  9
 #define  DATA   8
 #define  MCLR   7

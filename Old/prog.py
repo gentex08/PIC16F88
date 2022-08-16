@@ -1,3 +1,5 @@
+# OBSOLETE - FROM ORIGINAL REPOSITORY. might be useful later.
+
 #!/usr/bin/python2
 import sys
 import serial
